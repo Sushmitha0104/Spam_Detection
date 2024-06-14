@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f8f9;
+    
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Georgia;
+    font-weight:bolder;
+    color: #ec0e0e;
+}
+img{
+    padding-right: 40px;
+    width: 100px;
+    height: 75px;
+}
+/* form {
+    padding-top: 25%;
+    padding-left: 50%;
+} */
+/* 
+.messageform{
+
+} */
